@@ -24,19 +24,18 @@ Program Logic:-
    - guess == number → Win and stop loop
 4. Display total attempts at the end.
 
-What I Learned
+What I Learned:-
 
 - How loops control program flow
 - Importance of condition checking
 - How programs interact with users
 - Basic debugging while handling inputs
 
-Possible Improvements
+Possible Improvements:-
 
 - Add difficulty levels
 - Limit attempts
 - Handle invalid input (letters/symbols)
 
----
-
-Learning outcome: Understood how logic + loops create an interactive program.
+Learning outcome:- 
+Understood how logic + loops create an interactive program.

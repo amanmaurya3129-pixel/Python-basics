@@ -9,7 +9,7 @@ print("Welcome to the Number Guessing Game!")
 print("Guess a number between 1 and 100")
 
 while True:
-    guess = int(input("Enter your guess: "))
+    guess = int(input("Enter Your Guess: "))
     attempts += 1
 
     if guess > number:
