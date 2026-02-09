@@ -26,7 +26,7 @@ while True:
 
     if choice=='4':
         if n2==0:
-            print("Error: division by zero is not allowed")
+            print("Error: division by zero is not allowed ")
         else:
             print("Result:",n1/n2)
 print("Invalid choice")                

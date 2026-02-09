@@ -58,7 +58,7 @@ Select Operations
 5.Close the calculator
 
 
-Future Improvements
+Future Improvements:
 
 Use elif instead of multiple if
 
