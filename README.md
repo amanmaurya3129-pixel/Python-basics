@@ -47,9 +47,7 @@ I am using this repository to practice Python programming, improve my problem-so
 2. Clone this repository.
 3. Open the project folder in VS Code.
 4. Run any Python file using:
-
-```bash
-python filename.py
+   python filename.py
 
 🎯 Goal
 
